@@ -5,10 +5,9 @@ Hi, I'm **Adit Upadhya**! I'm a passionate developer who loves building fun and 
 
 ### 🚀 Featured Projects:
 - **[Break the Block](https://github.com/Adit-Upadhya/Break-the-Block)**: A classic arcade-style game built with Python and Pygame. The goal is to break all the blocks by bouncing a ball off a paddle.
+- 
 - **[Project 2](https://github.com/Adit-Upadhya/Project2)**: (Add a brief description of your second project here.)
-
 ---
-
 ### 🌟 Skills:
 - **Programming Languages**: Python, JavaScript
 - **Frameworks & Libraries**: React, Pygame
