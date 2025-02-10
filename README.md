@@ -1,12 +1,5 @@
 ### 👋 About Me:
 Hi, I'm **Adit Upadhya**! I'm a passionate developer who loves building fun and interactive projects. I enjoy working with **Python**, **JavaScript**, and **React**, and I have a keen interest in game development using **Pygame**. I'm always learning and exploring new technologies to improve my skills and create exciting applications.
-
----
-
-### 🚀 Featured Projects:
-- **[Break the Block](https://github.com/Adit-Upadhya/Break-the-Block)**: A classic arcade-style game built with Python and Pygame. The goal is to break all the blocks by bouncing a ball off a paddle.
-- 
-- **[Project 2](https://github.com/Adit-Upadhya/Project2)**: (Add a brief description of your second project here.)
 ---
 ### 🌟 Skills:
 - **Programming Languages**: Python, JavaScript
@@ -28,16 +21,11 @@ Hi, I'm **Adit Upadhya**! I'm a passionate developer who loves building fun and 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adit-Upadhya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-
-
-
 ### 📫 Let's Connect:
-- [LinkedIn](https://www.linkedin.com/in/your-profile/)
-- [Twitter](https://twitter.com/your-handle)
-- [Portfolio](https://your-portfolio-link.com/)
+- [LinkedIn](https://www.linkedin.com/in/adit-upadhya)
+- [Twitter](https://x.com/adit_upadhya?t=m439zimMwG6hXOR_tY-pFA&s=09)
+- [Portfolio](https://dark-theme-portfolio-theta.vercel.app/)
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=Adit-Upadhya&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
