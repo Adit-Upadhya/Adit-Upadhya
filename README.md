@@ -19,7 +19,7 @@ Hi, I'm **Adit Upadhya**! I'm a passionate developer who loves building fun and 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adit-Upadhya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 ### 📫 Let's Connect:
-- [LinkedIn](https://www.linkedin.com/in/adit-upadhya)
+- [LinkedIn](https://www.linkedin.com/in/adit-upadhya-690644257/)
 - [Twitter](https://x.com/adit_upadhya?t=m439zimMwG6hXOR_tY-pFA&s=09)
 - [Portfolio](https://dark-theme-portfolio-theta.vercel.app/)
 ---
