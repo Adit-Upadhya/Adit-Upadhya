@@ -13,6 +13,7 @@ Hi, I'm **Adit Upadhya**! I'm a passionate developer who loves building fun and 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Pygame](https://img.shields.io/badge/pygame-%230077B5.svg?style=flat&logo=python&logoColor=white)<br>
 
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Adit-Upadhya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Adit-Upadhya&theme=dark&hide_border=false)<br/>
