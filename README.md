@@ -1,6 +1,7 @@
 ### 👋 About Me:
 Hi, I'm **Adit Upadhya**! I'm a passionate developer who loves building fun and interactive projects. I enjoy working with **Python**, **JavaScript**, and **React**, and I have a keen interest in game development using **Pygame**. I'm always learning and exploring new technologies to improve my skills and create exciting applications.
 ---
+
 ### 🌟 Skills:
 - **Programming Languages**: Python, JavaScript
 - **Frameworks & Libraries**: React, Pygame
