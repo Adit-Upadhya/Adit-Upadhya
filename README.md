@@ -6,7 +6,7 @@ Hi, I'm **Adit Upadhya**! I'm a passionate developer who loves building fun and 
 - **Programming Languages**: Python, JavaScript
 - **Frameworks & Libraries**: React, Pygame
 - **Web Development**: HTML, CSS
-- **Tools**: Git, GitHub
+- **Tools**: GitHub
 ---
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)<br>
