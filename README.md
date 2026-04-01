@@ -14,7 +14,7 @@
 name:      Adit Upadhya (ウパダヤ アディト)
 location:  Tokyo, Japan 🇯🇵
 languages: English | 日本語 (JLPT N2) | नेपाली
-role:      Web Developer · Brand Builder · Co-founder
+role:      Web Developer · Brand Builder ·Founder
 company:   DIGIスタート — digistartjp.com
 school:    横浜システム工学院専門学校 (IT Programming & Game Development)
 interests:
