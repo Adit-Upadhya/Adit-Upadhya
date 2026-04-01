@@ -76,8 +76,6 @@ learning:  TypeScript · React · Node.js · Full-stack
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Adit-Upadhya&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adit-Upadhya&theme=tokyonight&hide_border=true&layout=compact" />
 
 </div>
 
