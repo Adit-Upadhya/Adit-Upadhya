@@ -3,7 +3,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a2e&height=200&section=header&text=Adit%20Upadhya&fontSize=52&fontColor=e0e0ff&fontAlignY=38&desc=Developer%20%E2%80%A2%20Founder%20%E2%80%A2%20Builder%20in%20Tokyo%20%F0%9F%87%AF%F0%9F%87%B5&descAlignY=60&descColor=8888bb)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=7C7CFF&center=true&vCenter=true&multiline=true&width=620&height=60&lines=Web+Developer+%26+Brand+Builder+%F0%9F%9A%80;Co-founder+%40+DIGIスタート+%7C+digistartjp.com;WebAR+%7C+Game+Dev+%7C+Full-Stack+%F0%9F%8C%90)](https://git.io/typing-svg)
+<br>
 
+<br>
 </div>
 
 ---
