@@ -108,7 +108,7 @@ learning:  TypeScript · React · Node.js · Full-stack
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/aditnp.com-0f0f0f?style=for-the-badge&logo=vercel&logoColor=white)](https://aditnp.com)
+[![Portfolio](https://img.shields.io/badge/aditnp.com-0f0f0f?style=for-the-badge&logo=vercel&logoColor=white)](https://aditupadhya.com)
 [![DIGIスタート](https://img.shields.io/badge/digistartjp.com-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white)](https://www.digistartjp.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adit-upadhya-690644257/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/adit.upadhya)
